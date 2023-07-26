@@ -17,14 +17,14 @@ The Postman test suite here is made up of two separate files:
 
 # Newman Commands
 
-Step-1
+Step-1:
 for installing npm:
 npm install -g newman 
 
-Step-2
+Step-2:
 newman run Flight8.postman_collection.json -e bug8Environment.postman_environment.json
 
-Step=3
+Step-3:
 for generating report
 newman run Flight8.postman_collection.json -e bug8Environment.postman_environment.json  -r cli,htmlextra
 
