@@ -1,7 +1,7 @@
 # API Testing Using Postman
 
 # Overview
-This project provides an example for testing RESTful APIs with Postman. It can be used to kickstart testing of other RESTful APIs with minimal changes to the project.This web service provides booking functionalities for a fictional hotel. You can interact with the API using standard HTTP methods, following the principles of Representational State Transfer (REST). It offers various endpoints for authentication, creating, managing, and retrieving bookings.
+This project provides an example for testing RESTful APIs with Postman. In this API testing project, Postman is utilized as the preferred API platform, and Newman is employed as the command-line Collection Runner for Postman. It can be used to kickstart testing of other RESTful APIs with minimal changes to the project.This web service provides booking functionalities for a fictional hotel. You can interact with the API using standard HTTP methods, following the principles of Representational State Transfer (REST). It offers various endpoints for authentication, creating, managing, and retrieving bookings.
 
 # Why Use Postman?
 Postman is a widely used and user-friendly API testing tool. It simplifies the process of creating and sending requests while also allowing users to inspect the responses, making it highly favored for exploratory and manual API testing. However, it offers more capabilities than just that and is frequently underestimated as a tool for automated API testing.
